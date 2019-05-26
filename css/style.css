@@ -1,0 +1,18 @@
+body {
+    background-color: #000000;
+}
+
+div {
+    margin-top: 170px;
+    margin-left: 260px;
+}
+
+input {
+    border: 0;
+    width: 790px;
+    height: 200px;
+    font-size: 200px;
+    color: #ffffff;
+    text-align: center;
+    background-color: #000000;
+}
